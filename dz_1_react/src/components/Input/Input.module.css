@@ -1,0 +1,14 @@
+.inp{
+    width: 200px;
+    height: 40px;
+    border-radius: 5px;
+    border: 1px solid #793896;
+    padding-left: 10px;
+    margin-left: 15px;
+    outline: none;
+}
+.inp:hover{
+    box-shadow: 0 0 10px rgba(128, 0, 128, 0.1),
+    0 0 20px rgba(128, 0, 128, 0.1),
+    0 0 30px rgba(128, 0, 128, 0.1);
+}
