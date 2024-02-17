@@ -1,0 +1,34 @@
+.main{
+width: 50%;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.list{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+
+}
+
+
+.todoIten{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 20px;
+    width: 400px;
+    height: 40px;
+    background-color: rgb(115, 115, 205);
+    font-size: 20px;
+    border-radius: 10px;
+}
+
+.todoItemBtn{
+    background-color: transparent;
+    border: none;
+    outline: none;
+    font-size: 20px;
+    cursor: pointer;
+}
