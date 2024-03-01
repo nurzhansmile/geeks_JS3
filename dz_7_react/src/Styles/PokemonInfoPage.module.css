@@ -1,0 +1,17 @@
+.img{
+    height: 50vh;
+}
+.imgDiv{
+    height: 50vh;
+background-color: rgb(64, 185, 106);
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.infoDiv{
+    height: 50vh;
+    background-color: rgb(216, 166, 73);
+    padding-left: 20px;
+    text-align: left;
+    padding-top: 20px;
+}
